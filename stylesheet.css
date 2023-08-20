@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+
+header {
+    padding: 5px;
+}
+
+nav {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+body {
+    padding: 5px;
+
+}
+
+/* index */
+
+.bodyelements {
+    background-color: azure;
+}
+
+h1 {
+    color: burlywood;
+
+}
+
+.intro {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+.text1 {
+    border: 2px solid burlywood;
+    padding: 5px;
+}
+
+img {
+    height: 450px;
+    width: 400px;
+    margin-left: 500px;
+}
+
+/*cv*/
+
+.cvmain {
+    background-color: azure;
+    padding: 5px;
+
+}
+
+.h1cv {
+    color: burlywood;
+    text-align: center;
+}
+
+.tabel {
+    margin-left: 425px;
+}
+
+table,
+th,
+td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+/*contact*/
+
+.contactmain {
+    background-color: azure;
+    padding: 5px;
+}
+
+.h1contact {
+    color: burlywood;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    padding: 5px;
+    margin: 50px;
+}
+
+.submit:hover {
+    font-size: 20px;
+    background-color: white;
+}
+
+
+
+
+footer {
+    padding: 5px;
+    text-align: center;
+}
